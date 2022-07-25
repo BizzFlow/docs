@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T11:55:53.807Z" agent="5.0 (Windows)" etag="rxpbxhHtI172yQ2visql" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T11:57:13.002Z" agent="5.0 (Windows)" etag="LZHeFC2YENOy1aISU2M0" version="20.2.0" type="github">
   <diagram id="z03MUTuUgzkcitabcaoj" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,6 +32,9 @@
         </mxCell>
         <mxCell id="oAav7pihMbDxdEbYrx9P-23" value="Business" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="140" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="npFvAaq6JXNt-H-aH9cF-1" value="BusinessCatalog" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="498" width="140" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
